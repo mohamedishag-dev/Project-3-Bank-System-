@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bank 1 ( Extension )/Bank 1 ( Extension ).vcxproj" />
+</Solution>
